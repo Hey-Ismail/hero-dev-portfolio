@@ -12,7 +12,7 @@ header {
   padding-top: 50px;
   background: url(./resources/images/developer.png),
     url(./resources/images/header_bg.png), #fff8f3;
-  background-position: top left, bottom right;
+  background-position: 23px 38px, bottom right;
   background-repeat: no-repeat;
 }
 .logo h2 {
@@ -54,8 +54,7 @@ nav .menu a {
   color: whitesmoke;
   cursor: pointer;
 }
-.section-heading,
-.skill-heading {
+.section-heading {
   max-width: 827px;
   text-align: center;
   margin: 0 auto;
@@ -88,7 +87,7 @@ nav .menu a {
   margin-bottom: 5px;
 }
 .banner .banner-content h1 {
-  font-size: 85px;
+  font-size: 60px;
   font-weight: bold;
   color: #181818;
   margin-bottom: 20px;
