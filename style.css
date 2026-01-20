@@ -26,7 +26,6 @@ header {
 nav {
   width: 71%;
   max-width: 1140px;
-  /* border: 1px solid black; */
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -46,7 +45,6 @@ nav .menu a {
 .btn {
   background-color: #fd6e0a;
   border: none;
-  /* border-radius: ; */
   padding: 18.23px 36px;
   border-radius: 5px;
   font-size: 20px;
@@ -60,7 +58,6 @@ nav .menu a {
   margin: 0 auto;
 }
 .section-heading h2 {
-  /* font-weight: bold; */
   font-size: 35px;
   margin-bottom: 30px;
 }
@@ -71,7 +68,6 @@ nav .menu a {
   color: #757575;
 }
 .banner {
-  /* border: 1px solid purple; */
   margin: 47px 38px 0px 220px;
   display: flex;
   justify-content: space-between;
@@ -119,7 +115,6 @@ nav .menu a {
 }
 .about-info .info-card p {
   font-size: 20px;
-  /* margin-bottom: 30px; */
   line-height: 30px;
   color: #757575;
 }
@@ -157,7 +152,6 @@ nav .menu a {
 }
 .skill-card p {
   font-size: 16px;
-  /* margin-bottom: 30px; */
   line-height: 28px;
   color: #757575;
 }
@@ -193,9 +187,9 @@ nav .menu a {
 }
 .resume-card .card-text {
   font-size: 16px;
-  /* font-weight: 600; */
+
   line-height: 28px;
-  /* margin-bottom: 20px; */
+
   color: #757575;
 }
 .resume-container hr {
@@ -218,9 +212,7 @@ footer .footer-container {
 .footer-container .social {
   max-width: 562px;
 }
-/* .footer-container {
-  display: flex;
-} */
+
 .footer-container .social p {
   color: #474747;
   line-height: 28px;
@@ -229,18 +221,9 @@ footer .footer-container {
 .footer-container h2 {
   font-size: 35px;
   color: #181818;
-  /* font-weight: ; */
   margin-bottom: 20px;
-  /* justify-content: center;
-  align-items: center; */
 }
-/* footer .footer-container .form .h2-tag {
-  display: flex;
-}
-.h2-tag h2 {
-  justify-content: center;
-  align-items: center;
-} */
+
 .footer-container .icons a {
   margin-right: 24px;
 }
